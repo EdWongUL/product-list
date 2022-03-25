@@ -1,0 +1,10 @@
+
+- load a list of products from this api - https://fakestoreapi.com
+- use the /products api endpoint which returns a full list of products
+- display a loading spinner while the products are being fetched
+- add a search box which filters the list of products by title or description
+- add a sort dropdown which sorts the products by price (low to high, high to low), or alphabetically
+- display a list of product categories, use the /categories api endpoint to get the list of categories
+- when a category is clicked, filter the products by this category (bonus for highlighting the currently selected category button)
+- the product filter should combine search + sort + category
+- show a “no results found” message if the filter returns no products
